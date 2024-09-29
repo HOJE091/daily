@@ -6,7 +6,7 @@ public class _001_start {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello world");
-		System.out.println("aplle");
+		System.out.println("apllle");
  
 	}
 
