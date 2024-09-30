@@ -6,8 +6,10 @@ public class _001_start {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello world");
-		System.out.println("apllle");
- 
+		System.out.println("halllosss");
+		System.out.println();
+		System.out.println();
+	
 	}
 
 }
